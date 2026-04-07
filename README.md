@@ -7,4 +7,4 @@ Eldoria é um RPG de texto imersivo atualmente em desenvolvimento. O jogo já co
 - Python
 
 ## 👨‍💻 Autor
-Gustavo
+Gustavo Saurim de Aguiar Minighitti
