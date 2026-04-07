@@ -1,4 +1,4 @@
-# 🌌 A Queda de Eldoria — RPG em Python
+# 🌌 Eldoria: Fragmentos do Abismo
 
 ⚔️ Um RPG de texto em Python com combate por turnos, classes únicas e uma história imersiva.
 
